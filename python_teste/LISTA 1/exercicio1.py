@@ -1,6 +1,0 @@
-num1 = int(input("Escolha um número: "))
-num2 = int(input("Escolha outro: "))
-print('A soma dos dois números é: ', num1+num2)
-print('A Divisão dos dois números é: ', num1*num2)
-print('A Subtração dos dois números é: ', num1-num2)
-print('A Divisão dos dois números é: ', num1/num2)
