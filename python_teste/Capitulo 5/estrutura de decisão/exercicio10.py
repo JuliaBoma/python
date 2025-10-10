@@ -11,7 +11,7 @@ def idadeJogador(idade):
         print("Senior")
     else:
         print("Muito novo pro futebol")
-
+print("Vamos ver sua idade para ver qual é a sua clasificação!")
 idade = int(input("Digite a sua idade: "))
 
 idadeJogador(idade)
